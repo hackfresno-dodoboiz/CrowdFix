@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "872494810420",
+    "firebase_url": "https://hackfresno.firebaseio.com",
+    "project_id": "hackfresno",
+    "storage_bucket": "hackfresno.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872494810420:android:fa090b3e5d7f0baa",
+        "android_client_info": {
+          "package_name": "com.example.hfbird"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872494810420-7qkivho7cslho9mpn3v4fc88emkojg29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhYoFVpq4g5NpjMmwubFhZ79fI01Gxvq8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
