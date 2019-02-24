@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">872494810420-7qkivho7cslho9mpn3v4fc88emkojg29.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://hackfresno.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">872494810420</string>
+    <string name="google_api_key" translatable="false">AIzaSyAhYoFVpq4g5NpjMmwubFhZ79fI01Gxvq8</string>
+    <string name="google_app_id" translatable="false">1:872494810420:android:fa090b3e5d7f0baa</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAhYoFVpq4g5NpjMmwubFhZ79fI01Gxvq8</string>
+    <string name="google_storage_bucket" translatable="false">hackfresno.appspot.com</string>
+    <string name="project_id" translatable="false">hackfresno</string>
+</resources>

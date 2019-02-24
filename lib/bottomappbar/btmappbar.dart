@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:birdtrigger/GoogleMap/gmap.dart';
-import 'package:birdtrigger/form/stepper_form.dart';
+import 'package:hfbird/GoogleMap/gmap.dart';
+import 'package:hfbird/form/stepper_form.dart';
 
 class BottomAB extends StatefulWidget {
   static String tag = 'bottom-app-bar';

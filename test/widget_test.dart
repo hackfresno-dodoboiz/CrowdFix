@@ -8,7 +8,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:birdtrigger/bottomappbar/btmappbar.dart';
+import 'package:hfbird/bottomappbar/btmappbar.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {

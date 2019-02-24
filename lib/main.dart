@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:birdtrigger/bottomappbar/btmappbar.dart';
+import 'package:hfbird/bottomappbar/btmappbar.dart';
 
 void main() {
   runApp(MaterialApp(

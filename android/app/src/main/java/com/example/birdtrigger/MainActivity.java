@@ -1,4 +1,4 @@
-package com.example.birdtrigger;
+package com.example.hfbird;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
