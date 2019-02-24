@@ -1,4 +1,4 @@
-#Sun Feb 24 05:51:03 PST 2019
+#Sun Feb 24 10:40:03 PST 2019
 base.2=C\:\\Users\\Raj S\\Documents\\GitHub Repos\\HackFresno\\updated_hf\\hfbird\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\2
 base.1=C\:\\Users\\Raj S\\Documents\\GitHub Repos\\HackFresno\\updated_hf\\hfbird\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\5
 base.0=C\:\\Users\\Raj S\\Documents\\GitHub Repos\\HackFresno\\updated_hf\\hfbird\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\10
@@ -18,6 +18,7 @@ path.2=classes.dex
 renamed.4=classes5.dex
 renamed.3=classes4.dex
 path.1=classes.dex
+renamed.18=classes19.dex
 renamed.2=classes3.dex
 path.0=classes.dex
 renamed.17=classes18.dex
@@ -27,6 +28,8 @@ renamed.0=classes.dex
 renamed.15=classes16.dex
 renamed.14=classes15.dex
 renamed.13=classes14.dex
+path.18=classes2.dex
+base.18=C\:\\Users\\Raj S\\Documents\\GitHub Repos\\HackFresno\\updated_hf\\hfbird\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\1
 renamed.12=classes13.dex
 path.17=classes.dex
 base.17=C\:\\Users\\Raj S\\Documents\\GitHub Repos\\HackFresno\\updated_hf\\hfbird\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\13

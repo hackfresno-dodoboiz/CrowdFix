@@ -14,12 +14,12 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Demo',
       theme: ThemeData.dark(),
-      home: MyHomePage(),
+      home: EventsRender(),
     );
   }
 }
 
-class MyHomePage extends StatelessWidget{
+class EventsRender extends StatelessWidget{
   @override
   Widget build(BuildContext context){
     return Scaffold(
