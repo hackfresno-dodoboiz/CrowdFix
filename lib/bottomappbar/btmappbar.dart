@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:hfbird/GoogleMap/gmap.dart';
 import 'package:hfbird/form/stepper_form.dart';
+import 'package:hfbird/dataViewer/infoViewer.dart';
 
 class BottomAB extends StatefulWidget {
   static String tag = 'bottom-app-bar';
@@ -42,7 +43,9 @@ class _BottomABState extends State<BottomAB> {
             icon: Icon(Icons.photo_album),
             color: Colors.blue,
             highlightColor: Colors.redAccent,
-            onPressed: () {},
+            onPressed: () {
+              StepperForm();
+            },
           ),
           SizedBox(
             height: 60,
@@ -76,11 +79,12 @@ class _BottomABState extends State<BottomAB> {
 Widget _buildFab(BuildContext context) {
   return FloatingActionButton(
     onPressed: () {
-      Navigator.of(context).pushNamed(StepperForm.tag);//StepperForm();//AppDrawer();
+      Navigator.of(context).pushNamed(InfoView.tag);
+      //StepperForm();//AppDrawer();
     },
     tooltip: 'fab',
     elevation: 4.0,
-    
+
     //shape: BeveledRectangleBorder(borderRadius: BorderRadius.circular(8)),
     child: Icon(Icons.add_a_photo),
   );

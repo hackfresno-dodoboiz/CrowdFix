@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Raj S\\Documents\\GitHub Repos\\HackFresno\\updated_hf\\hfbird\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-it\\values-it.xml",
+            "outputFile": "/Users/n0m3rcy/Documents/final/CrowdFix/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Raj S\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-16.0.1.aar\\86d1f99fc4415203c882a1e6c90fc12c\\res\\values-it\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "194",
-                        "endOffsets": "441"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1262",
-                        "endColumns": "194",
-                        "endOffsets": "1452"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Raj S\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\19aa98fbb8554c01057c28bf84be890c\\res\\values-it\\values.xml",
+                    "source": "/Users/n0m3rcy/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/4e1678798c501d431f608bcc0e099a74/res/values-it/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -38,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Raj S\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7258e24c8c939cb38ef58c0e3f337561\\res\\values-it\\values-it.xml",
+                    "source": "/Users/n0m3rcy/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e78f1f94a7ae437df2a4e944eafd520a/res/values-it/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "194",
+                        "endOffsets": "441"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1262",
+                        "endColumns": "194",
+                        "endOffsets": "1452"
+                    }
+                },
+                {
+                    "source": "/Users/n0m3rcy/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/02c2a93e6aa921fb876c9db9dd39e8a4/res/values-it/values-it.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

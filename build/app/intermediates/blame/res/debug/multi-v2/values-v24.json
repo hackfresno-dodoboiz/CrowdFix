@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Raj S\\Documents\\GitHub Repos\\HackFresno\\updated_hf\\hfbird\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "outputFile": "/Users/n0m3rcy/Documents/final/CrowdFix/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Raj S\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\f74b1822bce1c6e0ea8add350f8c7bbf\\res\\values-v24\\values-v24.xml",
+                    "source": "/Users/n0m3rcy/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/09ffe749cc549578c6b4cf7fc83e1898/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
