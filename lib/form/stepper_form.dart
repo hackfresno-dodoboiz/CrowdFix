@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
-
-class StepperForm extends StatefulWidget{
+class StepperForm extends StatefulWidget {
   static String tag = 'stepper-form';
   @override
   StepperFormState createState() => new StepperFormState();
@@ -12,32 +11,33 @@ class StepperFormState extends State<StepperForm> {
 
   List<Step> mySteps = [
     new Step(
-        title: new Text("Adım 1"),
-        content: new Text("Hello!"),
+        title: new Text("Choose Image"),
+        content:new Text("Choose Image"),
         isActive: true),
     new Step(
-        title: new Text("Adım 2", textAlign: TextAlign.center,),
+        title: new Text(
+          "Enter Title",
+          textAlign: TextAlign.center,
+        ),
         content: new Text("World!"),
         state: StepState.editing,
         isActive: true),
     new Step(
-        title: new Text("Adım 3"),
+        title: new Text("Enter Description"),
         content: new Text("Hello World!"),
         isActive: true),
   ];
 
   @override
   Widget build(BuildContext context) {
-    return new Scaffold(
-      // Appbar
-      
-      // Body
-      body: new Container(
-          child: new Stepper(
-
+    return MaterialApp(
+          home: new Scaffold(
+        body: Center(
+          child: new Container(
+              child: new Stepper(
             currentStep: this.currentStep,
             steps: mySteps,
-            type: StepperType.horizontal,
+            type: StepperType.vertical,
             onStepTapped: (step) {
               setState(() {
                 currentStep = step;
@@ -55,7 +55,6 @@ class StepperFormState extends State<StepperForm> {
               print("onStepCancel : " + currentStep.toString());
             },
             onStepContinue: () {
-
               setState(() {
                 if (currentStep < mySteps.length - 1) {
                   currentStep = currentStep + 1;
@@ -66,6 +65,8 @@ class StepperFormState extends State<StepperForm> {
               print("onStepContinue : " + currentStep.toString());
             },
           )),
+        ),
+      ),
     );
   }
-  }
+}
